@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EBSS.Automated.UI.Tests", "EBSS.Automated.UI.Tests\EBSS.Automated.UI.Tests.csproj", "{0D5ECC45-0B61-4DA7-8C7C-D242B9D359CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EBSS.UI.Tests.Support", "EBSS.UI.Tests.Support\EBSS.UI.Tests.Support.csproj", "{AB4AE846-F57D-4970-8673-591D3315ADA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D5ECC45-0B61-4DA7-8C7C-D242B9D359CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5ECC45-0B61-4DA7-8C7C-D242B9D359CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5ECC45-0B61-4DA7-8C7C-D242B9D359CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5ECC45-0B61-4DA7-8C7C-D242B9D359CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4AE846-F57D-4970-8673-591D3315ADA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4AE846-F57D-4970-8673-591D3315ADA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4AE846-F57D-4970-8673-591D3315ADA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4AE846-F57D-4970-8673-591D3315ADA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFFFCC0B-0782-43A6-A76C-4FC64484D0B6}
+	EndGlobalSection
+EndGlobal
